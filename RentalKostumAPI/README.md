@@ -51,4 +51,4 @@ e. Daftar endpoint
 | PUT    | /api/rentals/{id} | Mengupdate data rental        |
 | DELETE | /api/rentals/{id} | Menghapus data (soft delete)  |
 
-f. Link video presentasi: 
+f. Link video presentasi: https://youtu.be/nhHlzcCQdUs?si=39ujE2T2ppkrF2pa
